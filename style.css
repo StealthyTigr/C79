@@ -1,0 +1,27 @@
+#submit_button
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort_button{
+    display: none;
+    margin-top: 20px;
+    margin: bottom 20px;
+}
+
+input{
+    margin:10px;
+}
+html{
+    background-color: azure;
+}
+h3{
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size:30px;
+}
+h2{
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size:15px;
+}
